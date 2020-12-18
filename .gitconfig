@@ -1,0 +1,18 @@
+[user]
+	name = Ravonne Byrd
+	email = rnevels10@gmail.com
+[core]
+	editor = vim
+[init]
+	defaultBranch = main
+[color]
+	status = auto
+	branch = auto
+	interactive = auto
+	diff = auto
+[alias]
+	br = branch
+	st = status
+	lg = log --all --graph --decorate
+	co = checkout
+	last = log -1 HEAD
