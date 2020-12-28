@@ -93,3 +93,5 @@ let g:netrw_browse_split = 4
 let g:netrw_winsize = 25
 "netrw will open the file to the right of the project drawer
 let g:netrw_altv = 1
+"changing tab spaces
+set ts=4 sw=4
